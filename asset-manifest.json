@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/redux-book-report/static/css/main.5879322b.css",
+    "main.js": "/redux-book-report/static/js/main.396cefd1.js",
+    "static/media/memo1.jpg": "/redux-book-report/static/media/memo1.c9c3c4c6afe53d8887ec.jpg",
+    "static/media/memo2.jpg": "/redux-book-report/static/media/memo2.b21c51f8fe764d5dde62.jpg",
+    "index.html": "/redux-book-report/index.html",
+    "main.5879322b.css.map": "/redux-book-report/static/css/main.5879322b.css.map",
+    "main.396cefd1.js.map": "/redux-book-report/static/js/main.396cefd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5879322b.css",
+    "static/js/main.396cefd1.js"
+  ]
+}
